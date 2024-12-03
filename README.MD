@@ -6,6 +6,8 @@ This is a React-based portfolio website built using Vite. It includes pages for 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Links](#links)
+- [Images](#images)
 - [License](#license)
 - [Questions](#questions)
 
@@ -25,6 +27,15 @@ npm install
 
 npm run dev
 ```
+
+## Links 
+
+Link to deployed application: http://localhost:3007/AboutPage
+Link to Netlify: https://app.netlify.com/sites/delightful-hotteok-173ea1/overview
+
+## Images
+
+
 
 ## License
 
