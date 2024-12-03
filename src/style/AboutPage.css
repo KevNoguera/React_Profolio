@@ -1,0 +1,19 @@
+
+.pimage{
+    border-radius: 35%;
+    object-fit: cover;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(66, 3, 224, 0.121);
+    transition:ease-in 10s;
+}
+
+h2{
+    font-size: 2.5rem;
+    margin: 20px 0;
+    color: #2b5176
+}
+p{
+    font-size: 1.2rem;
+    margin: 10px 10px;
+    color: #2b5176
+}
